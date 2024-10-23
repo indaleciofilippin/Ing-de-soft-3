@@ -19,11 +19,24 @@
 
     Corroboramos que funcione.
     ![Captura](imagenes/img-9-10.png)
+    ![Captura](imagenes/img-9-11.png)
 
 #### 4.2 Desafíos:
 - 4.2.1 Agregar tareas para generar Front en Azure App Service con Soporte para Contenedores
+
+    ![Captura](imagenes/img-9-12.png)
+    ![Captura](imagenes/img-9-13.png)
+
 - 4.2.2 Agregar variables necesarias para el funcionamiento de la nueva etapa considerando que debe haber 2 entornos QA y PROD para Back y Front.
+  
+    ![Captura](imagenes/img-9-15.png)
+    ![Captura](imagenes/img-9-16.png)
+    ![Captura](imagenes/img-9-18.png)
+
 - 4.2.3 Agregar tareas para correr pruebas de integración en el entorno de QA de Back y Front creado en Azure App Services con Soporte para Contenedores. 
+- 
+    ![Captura](imagenes/img-9-17.png)
+
 - 4.2.4 Agregar etapa que dependa de la etapa de Deploy en QA que genere un entorno de PROD.
 - 4.2.5 Entregar un pipeline que incluya:
   - A) Etapa Construcción y Pruebas Unitarias y Code Coverage Back y Front
