@@ -87,6 +87,20 @@
     ![Captura](imagenes/img-29.png)
     ![Captura](imagenes/img-28.png)
     ![Captura](imagenes/img-32.png)
+
+    - ##### 4.2.4 - Agregar etapa que dependa de la etapa de Deploy en ACI QA y genere contenedores en ACI para entorno de PROD.
+
+    ![Captura](imagenes/img-43.png)
+    ![Captura](imagenes/img-44.png)
+    ![Captura](imagenes/img-35.png)
+    ![Captura](imagenes/img-33.png)
+    ![Captura](imagenes/img-34.png)
+    ![Captura](imagenes/img-37.png)
+    ![Captura](imagenes/img-38.png)
+    ![Captura](imagenes/img-40.png)
+    ![Captura](imagenes/img-39.png)
+    ![Captura](imagenes/img-41.png)
+    ![Captura](imagenes/img-42.png)
         
 #### 4.2 Desafíos
 
