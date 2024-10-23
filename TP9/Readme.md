@@ -18,7 +18,7 @@
     ![Captura](imagenes/img-9-4.png)
 
     Corroboramos que funcione.
-    ![Captura](imagenes/img-9-8.png)
+    ![Captura](imagenes/img-9-10.png)
 
 #### 4.2 Desafíos:
 - 4.2.1 Agregar tareas para generar Front en Azure App Service con Soporte para Contenedores
