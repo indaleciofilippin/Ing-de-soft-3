@@ -86,6 +86,7 @@
     ![Captura](imagenes/img-31.png)
     ![Captura](imagenes/img-29.png)
     ![Captura](imagenes/img-28.png)
+    ![Captura](imagenes/img-32.png)
         
 #### 4.2 Desafíos
 
