@@ -5,6 +5,21 @@
 	
   	- ##### 4.1.1 - Agregar a nuestro pipeline una nueva etapa que dependa de nuestra etapa de Construcción y Pruebas y de la etapa de Construcción de Imagenes Docker y subida a ACR realizada en el TP08
 
+    Primero creamos el plan de app service en linux.
+    ![Captura](imagenes/img-9-1.png)
+    ![Captura](imagenes/img-9-2.png)
+
+    Creamos la web app
+    ![Captura](imagenes/img-9-5.png)
+    ![Captura](imagenes/img-9-6.png)
+
+    Creamos la variable para la app service y agregamos el stage.
+    ![Captura](imagenes/img-9-7.png)
+    ![Captura](imagenes/img-9-4.png)
+
+    Corroboramos que funcione.
+    ![Captura](imagenes/img-9-8.png)
+
 #### 4.2 Desafíos:
 - 4.2.1 Agregar tareas para generar Front en Azure App Service con Soporte para Contenedores
 - 4.2.2 Agregar variables necesarias para el funcionamiento de la nueva etapa considerando que debe haber 2 entornos QA y PROD para Back y Front.
